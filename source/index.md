@@ -49,9 +49,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -93,9 +91,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -168,9 +164,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -210,9 +204,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -321,9 +313,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -365,9 +355,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -440,9 +428,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -482,9 +468,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -593,9 +577,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -637,9 +619,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -712,9 +692,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -754,9 +732,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -867,9 +843,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -909,9 +883,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -984,9 +956,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -1026,9 +996,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -1137,9 +1105,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -1181,9 +1147,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -1256,9 +1220,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
@@ -1298,9 +1260,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-{
-    "message": "Unauthenticated."
-}
+null
 ```
 
 ### HTTP Request
