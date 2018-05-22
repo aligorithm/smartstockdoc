@@ -49,7 +49,14 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+[
+    {
+        "id": 1,
+        "name": "A3lXuu",
+        "created_at": null,
+        "updated_at": null
+    }
+]
 ```
 
 ### HTTP Request
@@ -164,7 +171,12 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+{
+    "id": 1,
+    "name": "A3lXuu",
+    "created_at": null,
+    "updated_at": null
+}
 ```
 
 ### HTTP Request
@@ -313,7 +325,14 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+[
+    {
+        "id": 1,
+        "name": "iHDatg",
+        "created_at": null,
+        "updated_at": null
+    }
+]
 ```
 
 ### HTTP Request
@@ -428,7 +447,12 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+{
+    "id": 1,
+    "name": "iHDatg",
+    "created_at": null,
+    "updated_at": null
+}
 ```
 
 ### HTTP Request
@@ -577,7 +601,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+[]
 ```
 
 ### HTTP Request
@@ -692,7 +716,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+{}
 ```
 
 ### HTTP Request
@@ -843,7 +867,20 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+[
+    {
+        "id": 1,
+        "name": "AIzPwF",
+        "description": "HsEeROGjuR",
+        "code": "fU4pBZJXTr",
+        "price": "20",
+        "quantity": 0,
+        "brand_id": 1,
+        "category_id": 1,
+        "created_at": null,
+        "updated_at": null
+    }
+]
 ```
 
 ### HTTP Request
@@ -956,7 +993,18 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+{
+    "id": 1,
+    "name": "AIzPwF",
+    "description": "HsEeROGjuR",
+    "code": "fU4pBZJXTr",
+    "price": "20",
+    "quantity": 0,
+    "brand_id": 1,
+    "category_id": 1,
+    "created_at": null,
+    "updated_at": null
+}
 ```
 
 ### HTTP Request
@@ -1105,7 +1153,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+[]
 ```
 
 ### HTTP Request
@@ -1220,7 +1268,7 @@ $.ajax(settings).done(function (response) {
 > Example response:
 
 ```json
-null
+{}
 ```
 
 ### HTTP Request
